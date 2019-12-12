@@ -1,0 +1,41 @@
+﻿<Window x:Class="Blackjack.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Blackjack"
+        xmlns:controls="clr-namespace:Blackjack.Controls"
+        mc:Ignorable="d"
+        WindowState="Maximized"
+        Title="Blackjack">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="8*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.ColumnSpan="3" Grid.Row="0" x:Name="TitleSection">
+            <Label x:Name="LabelNbrOfDecks" Margin="10,0,30,0" Content="Decks: " />
+            <Label x:Name="LabelWinnerIs" Margin="10,0,10,0" Content="Winner is: " />
+        </WrapPanel>
+        <Border Margin="2" Grid.Column="0" Grid.Row="1" BorderBrush="Black" BorderThickness="1">
+            <DockPanel Name="DealerSection">
+            </DockPanel>
+        </Border>
+        <Border Margin="2" Grid.Column="1" Grid.Row="1" BorderBrush="Black" BorderThickness="1">
+            <DockPanel Name="PlayerSection">
+            </DockPanel>
+        </Border>
+        <StackPanel Grid.Column="3" Grid.Row="1" Name="ButtonSection">
+            <Button x:Name="BtnNewGame" Margin="15" Click="BtnNewGame_Click">New game</Button>
+            <Button IsEnabled="False" x:Name="BtnNewRound" Margin="15" Click="BtnNewRound_Click">New round</Button>
+            <Button x:Name="BtnShuffle" Margin="15" Click="BtnShuffle_Click">Shuffle</Button>
+            <Button x:Name="BtnHit" Margin="15" Click="BtnHit_Click">Hit</Button>
+            <Button x:Name="BtnStand" Margin="15" Click="BtnStand_Click">Stand</Button>
+        </StackPanel>
+    </Grid>
+</Window>

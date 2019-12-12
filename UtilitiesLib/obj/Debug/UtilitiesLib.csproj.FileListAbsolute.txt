@@ -1,0 +1,10 @@
+C:\local_files\docs\Alex_assignment4\UtilitiesLib\bin\Debug\UtilitiesLib.dll
+C:\local_files\docs\Alex_assignment4\UtilitiesLib\bin\Debug\UtilitiesLib.pdb
+C:\local_files\docs\Alex_assignment4\UtilitiesLib\obj\Debug\UtilitiesLib.csprojAssemblyReference.cache
+C:\local_files\docs\Alex_assignment4\UtilitiesLib\obj\Debug\UtilitiesLib.dll
+C:\local_files\docs\Alex_assignment4\UtilitiesLib\obj\Debug\UtilitiesLib.pdb
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\UtilitiesLib\bin\Debug\UtilitiesLib.dll
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\UtilitiesLib\bin\Debug\UtilitiesLib.pdb
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\UtilitiesLib\obj\Debug\UtilitiesLib.csprojAssemblyReference.cache
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\UtilitiesLib\obj\Debug\UtilitiesLib.dll
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\UtilitiesLib\obj\Debug\UtilitiesLib.pdb

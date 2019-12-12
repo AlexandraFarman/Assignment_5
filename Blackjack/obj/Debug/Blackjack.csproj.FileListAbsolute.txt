@@ -1,0 +1,50 @@
+C:\local_files\docs\Alex_assignment4\Blackjack\bin\Debug\Blackjack.exe.config
+C:\local_files\docs\Alex_assignment4\Blackjack\bin\Debug\Blackjack.exe
+C:\local_files\docs\Alex_assignment4\Blackjack\bin\Debug\Blackjack.pdb
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\MainWindow.g.cs
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\App.g.cs
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Blackjack_MarkupCompile.cache
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Blackjack_MarkupCompile.lref
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\MainWindow.baml
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Blackjack.g.resources
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Blackjack.exe
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Blackjack.pdb
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Controls\PlayerPanel.g.cs
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Controls\PlayerPanel.baml
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\NewGameWindow.g.cs
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\NewGameWindow.baml
+C:\local_files\docs\Alex_assignment4\Blackjack\bin\Debug\GameCardLib.dll
+C:\local_files\docs\Alex_assignment4\Blackjack\bin\Debug\UtilitiesLib.dll
+C:\local_files\docs\Alex_assignment4\Blackjack\bin\Debug\GameCardLib.pdb
+C:\local_files\docs\Alex_assignment4\Blackjack\bin\Debug\UtilitiesLib.pdb
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Controls\CardControl.g.cs
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Controls\CardControl.baml
+C:\local_files\docs\Alex_assignment4\Blackjack\obj\Debug\Blackjack.csproj.CopyComplete
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\bin\Debug\GameCardLib.dll
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\bin\Debug\UtilitiesLib.dll
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\bin\Debug\GameCardLib.pdb
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\bin\Debug\UtilitiesLib.pdb
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Controls\CardControl.g.cs
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Controls\PlayerPanel.g.cs
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\NewGameWindow.g.cs
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\App.g.cs
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Blackjack_MarkupCompile.cache
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Blackjack_MarkupCompile.lref
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Controls\CardControl.baml
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Controls\PlayerPanel.baml
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\MainWindow.baml
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\NewGameWindow.baml
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Blackjack.g.resources
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Blackjack.csproj.CopyComplete
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\Blackjack\obj\Debug\Blackjack.pdb

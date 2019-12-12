@@ -1,0 +1,16 @@
+C:\local_files\docs\Alex_assignment4\GameCardLib\bin\Debug\GameCardLib.dll
+C:\local_files\docs\Alex_assignment4\GameCardLib\bin\Debug\GameCardLib.pdb
+C:\local_files\docs\Alex_assignment4\GameCardLib\bin\Debug\UtilitiesLib.dll
+C:\local_files\docs\Alex_assignment4\GameCardLib\bin\Debug\UtilitiesLib.pdb
+C:\local_files\docs\Alex_assignment4\GameCardLib\obj\Debug\GameCardLib.csprojAssemblyReference.cache
+C:\local_files\docs\Alex_assignment4\GameCardLib\obj\Debug\GameCardLib.csproj.CopyComplete
+C:\local_files\docs\Alex_assignment4\GameCardLib\obj\Debug\GameCardLib.dll
+C:\local_files\docs\Alex_assignment4\GameCardLib\obj\Debug\GameCardLib.pdb
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\GameCardLib\bin\Debug\GameCardLib.dll
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\GameCardLib\bin\Debug\GameCardLib.pdb
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\GameCardLib\bin\Debug\UtilitiesLib.dll
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\GameCardLib\bin\Debug\UtilitiesLib.pdb
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\GameCardLib\obj\Debug\GameCardLib.csprojAssemblyReference.cache
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\GameCardLib\obj\Debug\GameCardLib.csproj.CopyComplete
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\GameCardLib\obj\Debug\GameCardLib.dll
+C:\Users\Alexandra\Documents\Skola\Programming in C# and .NET for Non-Beginners\Assignments\Assignment 4\code\Assignment_4\GameCardLib\obj\Debug\GameCardLib.pdb
